@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+streamlit
+python-dotenv
+requests
+pydantic
+langchain
+langchain-groq
+langchain-tavily
+langgraph
+
+uvicorn backend:app --reload --port 9999
